@@ -1,6 +1,4 @@
-ionic-angular-cordova-seed
-==========================
+myFirstIonicApp
+===============
 
-The perfect starting point for an Ionic project.
-
-- [Ionic Tutorials](http://ionicframework.com/tutorials/)
+Tutorial : http://thejackalofjavascript.com/ionic-angularjs-and-phonegap-build/
